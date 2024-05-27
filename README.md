@@ -11,7 +11,7 @@
 
 ## Added Liquidity
 
-2/4
+ - 1/2  of the funds raised pair with $POST in ayin 
 
 ## Team Funding and Commitment
 
