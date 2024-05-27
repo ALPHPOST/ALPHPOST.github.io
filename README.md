@@ -1,6 +1,7 @@
 # AlphaPost Token Distribution
 
-![Token Distribution Image](https://github.com/ALPHPOST/alphpost.github.io/assets/124279523/4baf2706-2e05-4bb6-a84c-9559969c1149)
+![image](https://github.com/ALPHPOST/alphpost.github.io/assets/124279523/0137fa5f-d706-4196-bb78-3f58ea5a1114)
+
 
 ## Sale Details
 
