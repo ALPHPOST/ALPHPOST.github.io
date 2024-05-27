@@ -1,4 +1,4 @@
-# AlphaPost Token Distribution
+# AlphPost Token Distribution
 
 ![image](https://github.com/ALPHPOST/alphpost.github.io/assets/124279523/0137fa5f-d706-4196-bb78-3f58ea5a1114)
 
